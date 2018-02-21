@@ -1,10 +1,12 @@
 {
-	"layouts":[{"jsm_pie_plots":{"title":"Gender info",
+	"layouts":[{"jsm_pie_plots":{"title":"Gender info from JSON",
                                     "titlefont":{"family": "Courier New",
                                                  "size":15},
                                     "autosize":true,
-                                    "height":150,
-                                    "showlegend":false
+                                    "height":180,
+                                    "showlegend":false,
+									"paper_bgcolor":"#7f7f7f",
+                                    "plot_bgcolor":"#f442d4"
                                     }
 			  }]
 }
