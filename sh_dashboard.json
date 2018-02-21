@@ -1,0 +1,10 @@
+{
+	"layouts":[{"jsm_pie_plots":{"title":"Gender info",
+                                    "titlefont":{"family": "Courier New",
+                                                 "size":"15"},
+                                    "autosize":"True",
+                                    "height":"150",
+                                    "showlegend":"False"
+                                    }
+			  }]
+}
