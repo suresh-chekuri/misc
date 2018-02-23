@@ -6,7 +6,7 @@
                                     "height":180,
                                     "showlegend":false,
 									"paper_bgcolor":"#7f7f7f",
-                                    "plot_bgcolor":"#f442d4"
+                                    "plot_bgcolor":"#ffffff"
                                     }
 			  }]
 }
