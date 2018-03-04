@@ -6,7 +6,9 @@
 }
 .SHDashBoardCell{
 	border: 1px;
-    marginTop: 10;
-    paddingRight: 5px;
-    paddingLeft: 5px;
+    margin-top: 10;
+    padding-right: 5px;
+    padding-left: 5px;
 }
+
+.sh-db-heading{text-align: center;background-color: #92a8d1;color: #00ff00;}
