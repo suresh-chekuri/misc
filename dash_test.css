@@ -4,3 +4,9 @@
 .SHDropDown {
 	height: 200px;
 }
+.SHDashBoardCell{
+	border:1px solid;
+    marginTop:10;
+    paddingRight:5px;
+    paddingLeft:5px;
+}
